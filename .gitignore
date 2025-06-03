@@ -388,3 +388,10 @@ Temporary Items
 !.gitignore
 !.gitsubmodules
 
+/src-tauri/target/
+/src-tauri/gen/
+.idea
+# tauri
+target
+src-tauri/gen
+src-tauri/target
